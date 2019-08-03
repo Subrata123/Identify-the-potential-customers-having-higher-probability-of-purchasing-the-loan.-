@@ -1,5 +1,4 @@
-# Supervised-Machine-Learning
-Predict likelihood of a liability customer buying personal loans
+# Predict likelihood of a liability customer buying personal loans
 
 Background :
 
