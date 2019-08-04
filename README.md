@@ -1,4 +1,4 @@
-# Predict likelihood of a liability customer buying personal loans
+# Identify the potential customers having higher probability of purchasing the loan. 
 
 Background :
 
