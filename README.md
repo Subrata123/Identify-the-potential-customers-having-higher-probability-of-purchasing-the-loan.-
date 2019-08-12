@@ -15,4 +15,4 @@ The department wants to build a model that will help them identify the potential
 Dataset :
 ---------
 The data shared by the bank has the information of the 5000 customers including demographic information, 
-customer's relationship with the bank and customer response to the last personal loan campaign..
+customer's relationship with the bank and customer response to the last personal loan campaign.
